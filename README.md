@@ -88,10 +88,8 @@ Product images are dynamically fetched using Google Drive links, providing a vis
 
 ## Contribution
 
-Feel free to contribute by improving the models, optimizing deployment, or enhancing visualization.
+Rishi Patel
 
 ---
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
