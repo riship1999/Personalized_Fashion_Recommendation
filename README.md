@@ -55,8 +55,8 @@ Access the original dataset on Kaggle: [H&M Personalized Fashion Recommendations
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-repository-name>.git
-cd <your-repository-name>
+https://github.com/riship1999/Personalized_Fashion_Recommendation.git
+cd Personalized_Fashion_Recommendation
 ```
 
 ### 2. Install Dependencies
@@ -88,10 +88,8 @@ Product images are dynamically fetched using Google Drive links, providing a vis
 
 ## Contribution
 
-Feel free to contribute by improving the models, optimizing deployment, or enhancing visualization.
+Rishi Patel
 
 ---
 
-## License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
