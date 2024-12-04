@@ -1,5 +1,5 @@
 
-# H&M Personalized Fashion Recommendations
+# Personalized Fashion Recommendations
 
 This project aims to recommend fashion products to customers of H&M using collaborative filtering and content-based techniques. The dataset includes metadata about products, customer information, transaction history, and product images. The application is deployed on Hugging Face for interactive product recommendations.
 
