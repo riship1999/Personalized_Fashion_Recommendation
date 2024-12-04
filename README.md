@@ -89,11 +89,3 @@ Cosine similarity is used to recommend products based on similarity in metadata 
 Product images are dynamically fetched using Google Drive links, providing a visually intuitive recommendation system.
 
 ---
-
-## Contribution
-
-Rishi Patel
-
----
-
-
