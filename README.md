@@ -43,6 +43,10 @@ The recommendation system is deployed on Hugging Face Spaces. It provides:
 
 **Live Demo**: [Hugging Face Deployment](https://huggingface.co/spaces/Rishi3499/DataMining)
 
+Screenshot of UI 
+![image](https://github.com/user-attachments/assets/d26365ca-fd21-49c0-b018-48b5c047263a)
+
+
 ---
 
 ## Dataset Link
