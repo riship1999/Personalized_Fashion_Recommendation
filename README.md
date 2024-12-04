@@ -22,6 +22,7 @@ The dataset is sourced from the [H&M Personalized Fashion Recommendations compet
 - **`EDA.ipynb`**: Exploratory Data Analysis (EDA) to understand and visualize the dataset, including metadata, customer insights, and transaction patterns.
 - **`Collaborative_filtering.ipynb`**: Implements a collaborative filtering model using an autoencoder to recommend products based on past customer purchases.
 - **`fashion_rec.ipynb`**: Uses cosine similarity for content-based recommendations, leveraging product metadata.
+- **`app.py`**: main python script for hugging face environment space that automatically builds the gradio app.
 
 ### **2. Auto-EDA Reports**
 Generated using **Sweetviz**, providing insights into each dataset:
@@ -32,6 +33,7 @@ Generated using **Sweetviz**, providing insights into each dataset:
 ### **3. Supporting Files**
 - **`requirements.txt`**: Lists all the dependencies required to run the project, ensuring compatibility and reproducibility.
 - **`file_links.json`**: Maps each product image file name to its corresponding publicly accessible Google Drive link for visualization in the recommendation system.
+
 
 ---
 
